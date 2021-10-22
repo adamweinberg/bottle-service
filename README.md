@@ -1,6 +1,6 @@
-# Nip Sip
+# Bottle Service
 
-Nip Sip is full-stack e-commerce webpage selling nips (50ml bottles of liquor). It allows consumers (both logged in and guest users) to browse and add nips to their cart and checkout. It also allows administrators to update, add, and delete products from the database. Below are a few screenshots from the site.
+Bottle Service is full-stack mock e-commerce webpage selling 50ml bottles of liquor. It allows consumers (both logged in and guest users) to browse and add items to their cart and checkout. It also allows administrators to update, add, and delete products from the database. Below are a few screenshots from the site.
 
 Main storefront:
 
