@@ -76,7 +76,7 @@ const Search = () => {
       <div className="set-visibility-container">
         <form className="search-bar" onSubmit={onSubmit}>
           <TextField
-            label="Find A Nip"
+            label="Find an Item"
             type="search"
             variant="outlined"
             onChange={onSearch}
@@ -95,9 +95,9 @@ const Search = () => {
             onChange={handleChange}
             label="Sort By"
           >
-            <MenuItem value={BEST_SELLERS}>MOST BUSSIN NIPS</MenuItem>
-            <MenuItem value={HIGHEST_PRICE}>MOST EXPENSIVEST</MenuItem>
-            <MenuItem value={LOWEST_PRICE}>CHEAP DRANKS</MenuItem>
+            <MenuItem value={BEST_SELLERS}>MOST POPULAR</MenuItem>
+            <MenuItem value={HIGHEST_PRICE}>PRICE (HIGH to LOW)</MenuItem>
+            <MenuItem value={LOWEST_PRICE}>PRICE (LOW to HIGH)</MenuItem>
             <MenuItem value={ALPHABETICAL_ASC}>A to Z</MenuItem>
             <MenuItem value={ALPHABETICAL_DEC}>Z to A</MenuItem>
           </Select>

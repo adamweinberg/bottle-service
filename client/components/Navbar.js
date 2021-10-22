@@ -91,7 +91,7 @@ const Navbar = () => {
           transition={{ ease: 'easeOut', duration: 4, repeat: Infinity }}
           className="title"
         >
-          Nip Sip
+          Bottle Service
         </motion.div>
         <div id="divider"></div>
     </div>

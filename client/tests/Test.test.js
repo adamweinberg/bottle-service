@@ -11,7 +11,7 @@ describe('Test', () => {
   test('renders Home component', () => {
     render(<Test />)
 
-    screen.getByText('Hello Nip Sip')
+    screen.getByText('Hello Bottle Service')
     expect(screen.queryByText('Not in Text')).toBeNull()
   })
 })

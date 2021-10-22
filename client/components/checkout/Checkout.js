@@ -17,7 +17,7 @@ import { clearCart } from '../../store/cart'
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {`Copyright © ${new Date().getFullYear()} - Nip Sip`}
+      {`Copyright © ${new Date().getFullYear()} - Bottle Service`}
     </Typography>
   )
 }

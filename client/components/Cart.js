@@ -135,7 +135,7 @@ const Cart = () => {
                   </TableCell>
                 </TableRow>
                 <TableRow>
-                  <TableCell align="left">Nip</TableCell>
+                  <TableCell align="left">Item</TableCell>
                   <TableCell align="left">Price</TableCell>
                   <TableCell align="center">Qty</TableCell>
                   <TableCell align="right">Total</TableCell>
