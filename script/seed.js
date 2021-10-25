@@ -63,12 +63,12 @@ async function seed() {
      * else regular seed below 👇
      *
      */
-    const res = await fetch(
-      'https://spreadsheets.google.com/feeds/list/10cEXh46270XlAqXNipbqreiUqr6uXMdowKi_w3aRYcM/1/public/values?alt=json'
-    )
-    const json = await res.json()
-    const unformattedProducts = json.feed.entry
-    products = googleJSONCleaner(unformattedProducts)
+    // const res = await fetch(
+    //   'https://sheets.googleapis.com/v4/spreadsheets/1rEmJY3zjKuNbq3VJ1A8kEF5SdRbae5ZP5PIh8uSYoB4/values/Sheet1'
+    // )
+    // const json = await res.json()
+    // const unformattedProducts = json.feed.entry
+    products = require('../server/db/all-products.json').products
 
     const { users, orders, shop } = require('../server/db/seed.json')
     // Possibly may not be in order? 👇
