@@ -4,15 +4,17 @@ Bottle Service is full-stack mock e-commerce webpage selling 50ml bottles of liq
 
 Main storefront:
 
-![image](https://user-images.githubusercontent.com/54007795/125542425-8824d28e-ed66-46a6-9ec7-666bc9c6b7dc.png)
+![image](https://user-images.githubusercontent.com/54007795/138567439-54a594c5-acce-485e-9e68-ea824162e6ba.png)
+
 
 Cart view:
 
-![image](https://user-images.githubusercontent.com/54007795/125542460-4c0b0635-ea56-4d42-a54e-beab4cbac7d9.png)
+![image](https://user-images.githubusercontent.com/54007795/138567453-88b01248-543a-4cc4-ad36-1c70f90c7c7c.png)
 
 Checkout review:
 
-![image](https://user-images.githubusercontent.com/54007795/125542494-e774241e-b2ca-4960-a881-660084524d15.png)
+![image](https://user-images.githubusercontent.com/54007795/138567465-01ef12a4-4b15-460d-bc55-bb977743c8e3.png)
+
 
 
 ## Deployed Site:
