@@ -19,7 +19,7 @@ Checkout review:
 
 ## Deployed Site:
 
-Nip Sip is currently hosted on Heroku. Check it out here: [bottle-service.herokuapp.com](http://bottle-service.herokuapp.com/)
+Bottle Service is currently hosted on Heroku. Check it out here: [bottle-service.herokuapp.com](http://bottle-service.herokuapp.com/)
 
 ## Technologies Used:
 - Node
