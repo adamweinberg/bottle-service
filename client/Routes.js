@@ -19,8 +19,6 @@ const Routes = () => {
     dispatch(me())
   }, [])
 
-  console.log('isLoggedin:', isLoggedIn)
-
   return (
     <div>
       {!!isLoggedIn ? (
