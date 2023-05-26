@@ -1,7 +1,7 @@
 {
-  "name": "nip-sip",
+  "name": "bottle-service",
   "version": "2.0.0",
-  "description": "Nip Sip, a place to buy nips",
+  "description": "Bottle Service, a place to buy 50mL bottles of liquor",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
